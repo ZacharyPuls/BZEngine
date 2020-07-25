@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/BZEngine/v16
+/BZEngine/.vs
+/BZEngine/x64/Debug
+/LevelEditor/x64/Debug
+/LevelEditor/glfw3.dll
+/x64/Debug
+*.dll
+*.trace
